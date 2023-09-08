@@ -3,17 +3,17 @@
     <img src="https://i.imgur.com/AzYNlkJ.png" alt="Logo" width="150">
   </a>
   <br>
-  <h3 align="center">Valemporium</h3>
+  <h3 align="center">VALORANT Store Checker</h3>
   <p align="center">A Valorant store checker Discord bot</p>
   <br>
-  <a href="https://discord.com/api/oauth2/authorize?client_id=1041230132905521233&permissions=191488&scope=bot%20applications.commands" target="_blank">
+  <a href="https://discord.com/api/oauth2/authorize?client_id=1041230132905521233&permissions=191488&scope=bot%20applications.commands](https://discord.com/api/oauth2/authorize?client_id=956472190621061170&permissions=8&scope=bot%20applications.commands" target="_blank">
   <p align="center"> -  Invite this bot to your server</p>
   </a>
-  <a href="https://github.com/PureAspiration/Valemporium/issues" target="_blank">
+  <a href="https://github.com/Intensifies/VAL-STOR-CHEK/issues" target="_blank">
   <p align="center"> -  Report an issue/bug</p>
   </a>
-  <a href="https://discord.gg/ejvddZr4Dw" target="_blank">
-  <p align="center"> -  Join the Valemporium Support Server</p>
+  <a href="[https://discord.gg/ejvddZr4Dw](https://discord.gg/W4C5XVnPVU)" target="_blank">
+  <p align="center"> -  Join the VALORANT Store Checker Support Server</p>
   </a>
 
 ## About
