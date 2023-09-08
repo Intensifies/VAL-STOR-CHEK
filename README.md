@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://discord.com/api/oauth2/authorize?client_id=1041230132905521233&permissions=191488&scope=bot%20applications.commands" target="_blank">
-    <img src="[https://i.imgur.com/AzYNlkJ.png](https://cdn.discordapp.com/attachments/902370582874710026/1149760437315969075/1b7757cc4d49fca3a00dd26247a26a62.png)" alt="Logo" width="150">
+    <img src="https://cdn.discordapp.com/attachments/902370582874710026/1149760437315969075/1b7757cc4d49fca3a00dd26247a26a62.png" alt="Logo" width="150">
   </a>
   <br>
   <h3 align="center">VALORANT Store Checker</h3>
