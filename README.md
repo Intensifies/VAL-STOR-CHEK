@@ -76,11 +76,11 @@ Distributed under the MIT License. See [`LICENSE`](./LICENSE.md) for more inform
 <br><br>
 
 ## Developer
-This project was developed by [`PureAspiration`](https://github.com/PureAspiration). You can contact me on discord at `PureAspiration`.
+This project was developed by [`PureAspiration`](https://github.com/Intensifies). You can contact me on discord at `Intensifies`.
 <br><br>
 
 ## Legal
-For any riot employees, please contact `PureAspiration` regarding this bot before taking any actions on our players and users.
+For any riot employees, please contact `Intensifies` regarding this bot before taking any actions on our players and users.
 
 Valemporium is not endorsed by Riot Games, and the developer is not liable for any damage, bans, or loss of account caused by this bot.
 
